@@ -1,0 +1,10 @@
+pandas>=1.5
+torch>=2.0
+numpy>=1.23
+matplotlib>=3.7
+seaborn>=0.12
+transformers>=4.30
+scikit-learn>=1.3
+tqdm>=4.65
+mypy>=1.5
+flake8>=6.0
