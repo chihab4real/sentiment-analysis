@@ -1,6 +1,5 @@
 # NLP Project – Sentiment Analysis with BERT on Movie Reviews
 
-
 ## Project Structure
 
 ```
